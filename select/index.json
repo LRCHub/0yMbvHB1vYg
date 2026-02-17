@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Metalingus",
+  "base_artist": "Alter Bridge",
+  "createdAt": "2026-02-17T16:12:46.829738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/01_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Metalingus (Live)",
+      "artist": "Alter Bridge",
+      "has_synced": false,
+      "path": "select/02_Metalingus_(Live)_Alter_Bridge.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/03_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Metalingus (Edge's WWE Theme)",
+      "artist": "It Lives, It Breathes",
+      "has_synced": true,
+      "path": "select/04_Metalingus_(Edge's_WWE_Theme)_It_Lives,_It_Breathes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Metalingus (WWE Mix) (Edge)",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/05_Metalingus_(WWE_Mix)_(Edge)_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/06_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alter Bridge: Metalingus (Official Lyric Video)",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/07_Alter_Bridge__Metalingus_(Official_Lyric_Video)_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/08_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/09_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/10_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WWE - Edge (Metalingus)",
+      "artist": "WWE",
+      "has_synced": true,
+      "path": "select/11_WWE_-_Edge_(Metalingus)_WWE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/12_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/13_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/14_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Metalingus (Made Famous by Alter Bridge)",
+      "artist": "Wrestling Heroes",
+      "has_synced": false,
+      "path": "select/15_Metalingus_(Made_Famous_by_Alter_Bridge)_Wrestling_Heroes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "05 Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/16_05_Metalingus_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Edge - Metalingus.mp3",
+      "artist": "WWE",
+      "has_synced": true,
+      "path": "select/17_Edge_-_Metalingus.mp3_WWE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Metalingus",
+      "artist": "Alter Bridge",
+      "has_synced": false,
+      "path": "select/pl_01_Metalingus_Alter_Bridge.txt"
+    }
+  ]
+}
